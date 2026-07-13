@@ -1,6 +1,6 @@
 Welcome to the Command Line Challenge. 
 
-First, click on the Shell tab on the right side of your screen. 
+First, Install git Bash on your computer. Then download this activity from GitHub to start. This was designed to be for a group, but it can be done solo.
 
 You have a file structure tree present here for you on the left side of your screen. 
 1. Starting off, check to see what directory you are currently     in, as well as look at what files/directories are present.
